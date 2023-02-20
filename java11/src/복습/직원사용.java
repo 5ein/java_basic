@@ -5,7 +5,7 @@ public class 직원사용 {
 		직원 work = new 직원();
 		work.name = "홍길동"; //public
 		work.address = "강남구"; //protected
-		work.salsry = 100;//default
+		work.salary = 100;//default
 		
 				
 	}
